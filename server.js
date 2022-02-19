@@ -17,6 +17,7 @@ app.get("/api/health", (req, res) => {
 });
 
 app.use("/", (req, res, next) => {
+  console.log(req.subdomains);
   if (!req.subdomains.length) return next();
   const env = req.subdomains[0] || "dev";
   req.url = `/${env}${req.originalUrl}`;
