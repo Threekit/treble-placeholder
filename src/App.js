@@ -1,7 +1,13 @@
+import "./app.css";
+import logo from "./assets/threekit_logo.svg";
+
 function App() {
   return (
-    <div>
-      <h2>Treble App coming soon...</h2>
+    <div className="app">
+      <div>
+        <img className="logo" src={logo} alt="threekit" />
+      </div>
+      <div className="title">Treble App coming soon...</div>
     </div>
   );
 }
