@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.1aecb45e.js",
-    "static/js/787.889e07c3.chunk.js": "/static/js/787.889e07c3.chunk.js",
+    "main.css": "/static/css/main.4db90def.css",
+    "main.js": "/static/js/main.fd315ee8.js",
+    "static/media/threekit_logo.svg": "/static/media/threekit_logo.89195e76a663a06b20f8420e06b4d148.svg",
     "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.1aecb45e.js.map": "/static/js/main.1aecb45e.js.map",
-    "787.889e07c3.chunk.js.map": "/static/js/787.889e07c3.chunk.js.map"
+    "main.4db90def.css.map": "/static/css/main.4db90def.css.map",
+    "main.fd315ee8.js.map": "/static/js/main.fd315ee8.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.1aecb45e.js"
+    "static/css/main.4db90def.css",
+    "static/js/main.fd315ee8.js"
   ]
 }
